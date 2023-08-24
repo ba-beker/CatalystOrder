@@ -1,6 +1,6 @@
 # B2B Ordering Management App
 
-![CatalystOrder server](images/banner.png.jpg){width=100%}
+![CatalystOrder server](images/banner.png){width=100%}
 
 The B2B Ordering Management App is a robust platform built using Node.js, MongoDB, and AWS services to facilitate streamlined business-to-business order management. This app empowers both suppliers and retail sellers, providing them with a seamless experience for product listing, ordering, and tracking.
 
